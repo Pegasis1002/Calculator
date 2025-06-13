@@ -7,14 +7,19 @@ In the root directory of the project
 
 ## 2. Windows
 In the root directory of the project
+```bash
   python build.py
-
+```
 
 # Run program
 ## 1. Linux
 In the root directory of the project
+```bash
   ./build/calculator
+```
 
 ## 2. Windows
 In the root directory of the project
+```bash
   .\build\debug\calculator.exe
+```
